@@ -1,0 +1,70 @@
+.carousel-item img{
+    width:100%;
+    height:100vh;
+}
+.pov{
+    color: blue;
+    font-size: 25px;
+}
+ .card-text
+{
+    text-align: justify;
+    padding: 15px 15px;
+    height: auto;
+
+}
+.card{
+    background-image:linear-gradient(180deg, #EE5133 0%, #EF2B73 100%);
+    color:white
+}
+.card:hover{
+    background-image:linear-gradient(180deg, #976bdf 0%, #5c4850 100%);
+}
+
+.height-fix .hfix
+{
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.height-fix .hfix>div
+{
+    flex-grow: 2;
+} 
+.ab2:hover{
+    color: white;
+}
+.ab2 li{
+    list-style-type:none;
+    text-align:justify
+}
+.con{
+    color:black;
+    font-size: 15px;
+
+}
+.con:hover{
+    color:white;
+}
+
+.ser{
+    color:black;
+    font-size:15px;
+}
+.ser:hover{
+    color:white;
+}
+.com{
+    color:black;
+    font-size: 15px;
+
+ 
+}
+.com:hover{
+    color:white;
+
+}
+.pp1{
+    text-decoration:underline;
+}
+
